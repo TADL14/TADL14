@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
-<h3 align="left">I'm a Computer Engineering student at ISEC (Instituto Superior de Engenharia de Coimbra). Through my GitHub profile, you can view the various projects I've developed during my studies Application Development branch of my degree</h3>
+<h3 align="left">I'm a Computer Engineering student at ISEC (Instituto Superior de Engenharia de Coimbra). Through my GitHub profile, you can view the various projects I've developed during my studies in the Application Development branch of my degree</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/TADL14](https://github.com/TADL14)
 
